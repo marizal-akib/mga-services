@@ -32,7 +32,7 @@ const Header: React.FC = () => {
         <a href="#" className="flex items-center overflow-hidden">
           <div className="relative h-10 sm:h-12 md:h-14 lg:h-16 w-[160px] sm:w-[200px] md:w-[240px] lg:w-[280px]">
             <img 
-              src={isScrolled ? "/assests/Logo and icons/logo-with_gold.png" : "/assests/Logo and icons/white_logo.png"} 
+              src={isScrolled ? "/assests/logos/logo-with_gold.png" : "/assests/logos/white_logo.png"} 
               alt="MGA Services" 
               className="absolute left-0 top-1/2 -translate-y-1/2 w-full transition-all duration-500"
               style={{ 

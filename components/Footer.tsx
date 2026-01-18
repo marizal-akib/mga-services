@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <div className="mb-6 relative h-10 md:h-12 lg:h-15 w-[200px] md:w-[240px] lg:w-[280px] overflow-hidden">
               <img 
-                src="/assests/Logo and icons/white_logo.png" 
+                src="/assests/logos/white_logo.png" 
                 alt="MGA Services" 
                 className="absolute left-0 top-1/2 -translate-y-1/2 w-full"
                 style={{ 
